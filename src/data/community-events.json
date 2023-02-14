@@ -1,5 +1,14 @@
 [
   {
+    "title": "ETHBarcelona",
+    "to": "https://ethbarcelona.com/",
+    "sponsor": null,
+    "location": "Barcelona, España",
+    "description": "ETHBarcelona is the biggest Ethereum event in Spain that celebrates the community and its values. It focuses on education, innovation, art, and creating positive social impact.",
+    "startDate": "2023-07-05",
+    "endDate": "2022-07-07"
+  },
+  {
     "title": "ETHVietnam",
     "to": "https://www.eth-vietnam.com/",
     "sponsor": null,
